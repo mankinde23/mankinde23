@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Makinde Damilola, a frontend enthusiast dedicated to crafting polished user interfaces and delightful experiences. Proficient in JavaScript, I frequently weave magic with frameworks like ReactJs, NextJs.
 
 <!--
 **mankinde23/mankinde23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
